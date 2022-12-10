@@ -1,2 +1,5 @@
-# AirBnB_clone_v2
- AirBnB by Gutu
+Airbnb clone v2
+
+
+# Gutu Daniel
+@gutudanii
